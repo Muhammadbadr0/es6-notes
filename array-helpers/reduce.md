@@ -1,4 +1,4 @@
-# reducer Helper 
+# reduce Helper 
 
 ### ES5 Loop Version 
 
